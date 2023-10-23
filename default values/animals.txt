@@ -1,0 +1,60 @@
+dog
+cat
+elephant
+giraffe
+lion
+tiger
+bear
+zebra
+monkey
+kangaroo
+dolphin
+whale
+penguin
+octopus
+eagle
+penguin
+cheetah
+wolf
+fox
+rhinoceros
+hippopotamus
+crocodile
+gorilla
+owl
+camel
+koala
+polar bear
+koala
+snail
+chimpanzee
+jellyfish
+peacock
+hedgehog
+platypus
+komodo dragon
+ostrich
+sloth
+raccoon
+red panda
+sloth
+orangutan
+sloth
+antelope
+lemur
+tasmanian devil
+walrus
+sea turtle
+porcupine
+meerkat
+pika
+sloth
+yak
+komodo dragon
+skunk
+pangolin
+wallaby
+armadillo
+aardvark
+squirrel
+otter 

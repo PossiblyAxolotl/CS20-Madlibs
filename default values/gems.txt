@@ -1,0 +1,40 @@
+diamond
+ruby
+sapphire
+emerald
+amethyst
+topaz
+aquamarine
+opal
+pearl
+garnet
+peridot
+citrine
+tourmaline
+tanzanite
+lapis lazuli
+jade
+moonstone
+turquoise
+morganite
+agate
+carnelian
+hematite
+rhodonite
+labradorite
+malachite
+onyx
+sunstone
+zircon
+kunzite
+rhodochrosite
+larimar
+chrysoprase
+apatite
+spinel
+prehnite
+amber
+iolite
+alexandrite
+blue lace agate
+tourmalinated quartz 
